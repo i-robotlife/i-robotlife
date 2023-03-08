@@ -1,16 +1,15 @@
 I-Robot.Life：智·能改变生活
 ===
 
-700多个AI工具的入口
-
-
-本项目基于中文版 [Reference](https://github.com/jaywcjlove/reference) 。
-
-您可以通过提交 [PR](https://github.com/tiwentichat/tiwentichat/blob/main/CONTRIBUTING.md) 来添加更多新AI工具。
+700个AI工具的入口，从这里开始探索宇宙
 
 
 
-[特别推荐:https://TiwenTi.Chat](https://tiwenti.chat)
+您可以通过提交 [PR](https://github.com/i-robotlife/i-robotlife/blob/main/CONTRIBUTING.md) 来添加更多新AI工具。
+
+
+
+特别推荐:[ChatGPT中文案例库 https://TiwenTi.Chat](https://tiwenti.chat)
 
 
 <!--rehype:style=padding-bottom: 23px;-->
@@ -5975,3 +5974,7 @@ SEO
 -    搜索数以百万计的艺术形象通过人工智能模型像DALL-E,稳定的扩散,Midjourney……
 
 													
+致谢
+----------
+
+本项目基于中文版 [Reference](https://github.com/jaywcjlove/reference)修改 。
