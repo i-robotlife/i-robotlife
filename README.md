@@ -9,7 +9,7 @@ I-Robot.Life：智·能改变生活
 
 
 
-特别推荐:[ChatGPT中文案例库 https://TiwenTi.Chat](https://tiwenti.chat)
+特别推荐:ChatGPT中文案例库 [https://TiwenTi.Chat](https://tiwenti.chat)
 
 
 <!--rehype:style=padding-bottom: 23px;-->
@@ -43,12 +43,12 @@ I-Robot.Life：智·能改变生活
 
 
 		
-[3D](#3D)	<!--rehype:style=background: rgb(150 220 254);-->  
+[3D](#3d)	<!--rehype:style=background: rgb(150 220 254);-->  
 [艺术](#艺术)	<!--rehype:style=background: rgb(39 160 193);-->
 [头像](#头像)	<!--rehype:style=background: rgb(26 188 156);-->
 [图像编辑](#图像编辑)	<!--rehype:style=background: rgb(210 168 255);--> 
 [图像生成](#图像生成)	<!--rehype:style=background: rgb(214 66 146);-->  
-[Logo制作](#Logo制作)	<!--rehype:style=background: rgb(150 220 254);-->  
+[Logo制作](#logo制作)	<!--rehype:style=background: rgb(150 220 254);-->  
 
 <!--rehype:class=home-card-->
 
@@ -59,7 +59,7 @@ I-Robot.Life：智·能改变生活
 
 
 
-[Prompts提示词](#Prompts提示词)	<!--rehype:style=background: rgb(39 160 193);-->
+[Prompts提示词](#prompts提示词)	<!--rehype:style=background: rgb(39 160 193);-->
 [常规写作](#常规写作)	<!--rehype:style=background: rgb(26 188 156);-->
 [文案写作](#文案写作)	<!--rehype:style=background: rgb(210 168 255);--> 
 [记事本](#记事本)	<!--rehype:style=background: rgb(214 66 146);-->  
@@ -112,7 +112,7 @@ IT类AI工具、平台
 [游戏](#游戏)	<!--rehype:style=background: rgb(150 220 254);-->  
 [地产-装修](#地产-装修)	<!--rehype:style=background: rgb(39 160 193);-->
 [销售](#销售)	<!--rehype:style=background: rgb(26 188 156);-->
-[SEO](#SEO)	<!--rehype:style=background: rgb(210 168 255);--> 
+[SEO](#seo)	<!--rehype:style=background: rgb(210 168 255);--> 
 [客服服务](#客服服务)	<!--rehype:style=background: rgb(214 66 146);-->  
 [探索应用](#探索应用)	<!--rehype:style=background: rgb(150 220 254);-->  
 
